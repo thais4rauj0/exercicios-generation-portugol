@@ -10,14 +10,14 @@ programa
 	 * Se houver, gravar na variável E (Excesso) e na variável M o valor da multa que João deverá pagar. Caso contrário mostrar tais variáveis com o conteúdo ZERO.
 	*/
 
-		real P=0 //peso de tomate
-		real E=0 //Excesso
-		real M=0 //Multa
+		real P= 0 //peso de tomate
+		real E= 0 //Excesso
+		real M= 0 //Multa
 
 		escreva ("Quanto pesa o tomate?\n")
 		leia (P)
 
-		se (P>50){
+		se (P > 50){
 			
 			E = P - 50
 
@@ -26,8 +26,8 @@ programa
 			escreva ("\nPeso: ", P, "\nExcesso: ", E, "\nMulta: ", M)
 			
 			} senao {
-				escreva ("\nPeso: ", P , "\nExcesso: ", E ,"\nMulta: ", M)
-				} 
+			escreva ("\nPeso: ", P , "\nExcesso: ", E ,"\nMulta: ", M)
+			} 
 
 
 			
@@ -38,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 890; 
+ * @POSICAO-CURSOR = 886; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

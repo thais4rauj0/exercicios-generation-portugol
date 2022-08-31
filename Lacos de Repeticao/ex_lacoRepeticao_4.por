@@ -20,7 +20,7 @@ programa
 			escreva ("\nesse número é positivo\n")
 			}	senao se (n1<= -1){
 				escreva ("\nesse número é negativo\n")
-				}
+			}
 	
 	}
 }
@@ -29,7 +29,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 492; 
+ * @POSICAO-CURSOR = 493; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

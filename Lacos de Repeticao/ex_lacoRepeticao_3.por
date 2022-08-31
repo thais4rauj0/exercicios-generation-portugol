@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica --> mat
 	
 	funcao inicio()
 	{
@@ -13,7 +13,7 @@ programa
 
 		real n1,n2,n3,n4
 
-		escreva ("Digite 4 números inteiros: ")
+		escreva ("Digite 4 números inteiros:\n")
 		leia (n1)
 		leia (n2)
 		leia (n3)
@@ -28,7 +28,7 @@ programa
 			escreva ("\n",n3)
 		}senao{
 			escreva ("\n",n1,"\n",n2,"\n",n3,"\n",n4)
-				}
+		}
 
 		
 		
@@ -39,7 +39,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 669; 
+ * @POSICAO-CURSOR = 393; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
