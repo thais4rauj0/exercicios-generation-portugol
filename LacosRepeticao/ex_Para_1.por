@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica --> mat
 	
 	funcao inicio()
 	{
@@ -13,7 +13,7 @@ programa
 
 		inteiro x
 		real mediaSal, mediaNmFilhos, maiorSal=0, percentual, salario, qtdeFilhos, totalSal=0, totalFilhos=0, menorSal=0
-		para (x = 0 ; x < 20 ; x++){
+		para (x = 0 ; x < 20; x++){
 
 			escreva ("Informe o seu salario:\n")
 			leia (salario)
@@ -52,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 801; 
+ * @POSICAO-CURSOR = 527; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {maiorSal, 15, 32, 8};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
